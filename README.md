@@ -409,40 +409,6 @@ I don't just build prototypes—I deliver **production-grade systems** with:
 
 ---
 
-## 📞 Contact
 
-<div align="center">
-
-**Hi, I'm Ahmad Whafa Azka Al Azkiyai**
-
-**Fraud Detection & AI Security Specialist**
-
-Federated Learning Security | Adversarial ML | Privacy-Preserving AI
-
----
-
-[![Website](https://img.shields.io/badge/Website-Visit_-green.svg)](https://alazkiyai09.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-alazkiyai09-black.svg)](https://github.com/alazkiyai09)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red.svg)](mailto:azka.alazkiyai@outlook.com)
-
-**📍 Location: Jakarta, Indonesia (Open to Remote)**
-**💼 Open to: Full-time, Contract, Consulting, Research Collaboration**
-
----
-
-**Domain Expertise:**
-- 🏦 **3+ years** Banking Fraud Detection (SAS Fraud Management, Real-time monitoring)
-- 🔐 **1+ years** Federated Learning Security (Byzantine-resilient FL, SignGuard)
-- 🔒 **2+ years** Steganography & Information Hiding (Published research)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ by [Ahmad Whafa Azka Al Azkiyai](https://alazkiyai09.github.io/)
 
 </div>
